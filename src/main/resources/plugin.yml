@@ -1,0 +1,6 @@
+name: ReadPlugin
+version: '${project.version}'
+main: cn.yaosiqian.readplugin.ReadPlugin
+authors: [YaoSiQian]
+description: Read in Minecraft
+website: https://www.yaosiqian.cn
